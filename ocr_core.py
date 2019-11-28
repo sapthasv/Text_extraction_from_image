@@ -3,7 +3,7 @@ try:
 except ImportError:
     import Image
 import pytesseract
-import cv2
+#import cv2
 
 
 
