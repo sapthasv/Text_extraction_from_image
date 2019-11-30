@@ -25,7 +25,7 @@ the regular expression(for pre defined format)
 extracted text is comapred with the regular expression date formats.if its matching to particular date for format
 and it will be printed
 
-This is passed to front end using simple html file and flask framework and this is deployed in ubuntu server on AWS.
+This is passed to front end using simple html file and flask framework and this is deployed in ubuntu server on AWS for remote access
 
 # My observations
 This can can able to predict most date file formats , And some times it fails to predict because of blur images,dark images and handwritten images.
