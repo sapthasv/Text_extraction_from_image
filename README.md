@@ -9,11 +9,11 @@
 
 Kindly ensure you have the following installed on your machine:
 
- Python 3 and above
- Tesseract
- Regexp
- OpenCV
- Datefinder
+ Python 3 and above,
+ Tesseract,
+ Regexp,
+ OpenCV,
+ Datefinder,
  An IDE or Editor of your choice
 
 #Simple ocr model for text extraction from the image file.
