@@ -35,6 +35,6 @@ I tried to improve images by converting to black and white(using open cv),giving
 By doing this kind of image tuning acuracy got increased 6 to 8% , Now accuracy level is about 55 to 58%
 
 # future changes can be made 
-still Accuracy can be increased by using deeplearning models on ocr recognition 
-To this require lot of images to train the model to get better accuracy 
+still Accuracy can be increased by using deeplearning models on ocr recognition.
+To do this require lot of images to train the model to get better accuracy .
 This will learn the pattern and gives better accuracy by training image again and agian.So this will best approach to get better acuracy 
